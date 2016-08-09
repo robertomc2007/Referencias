@@ -1,6 +1,8 @@
 # Referencias
 Agrupa documentos y vínculos como base de conocimientos
 
+[Descripción del curso](http://www.cpci.org.ar/index.php/servicios/cursos/277-curso-internet-de-las-cosas-iot)
+
 [Orígenes de Internet](http://www.internetsociety.org/es/internet/%C2%BFqu%C3%A9-es-internet/la-historia-de-internet)
 
 La primera descripción registrada de las interacciones sociales que se podían habilitar a través de la red fue una serie de memorandos escritos por J.C.R. Licklider, del MIT, en agosto de 1962, en los que describe su concepto de “Red galáctica”. Imaginó un conjunto de ordenadores interconectados globalmente, a través de los que todo el mundo podría acceder rápidamente a datos y programas desde cualquier sitio. En espíritu, el concepto era muy similar a la Internet de hoy en día. Licklider era el director del programa de investigación informática de DARPA,4 que comenzó en octubre de 1962. Mientras estaba en DARPA convenció a sus sucesores en dicha agencia (Ivan Sutherland, Bob Taylor y Lawrence G. Roberts, investigador del MIT), de la importancia de su concepto de red.
