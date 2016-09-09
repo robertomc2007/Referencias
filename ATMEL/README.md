@@ -13,3 +13,7 @@ Diagrama en Bloques de la CPU (interna al procesador)
 Diagrama de conexiones externas (ATMEGA328 chip)
 
 ![chip](./micro pines.jpg)
+
+Diagrama de asignación en ARDUINO
+
+![ARDUPIN](.//ARDUINO/atmega328.png)
