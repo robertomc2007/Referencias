@@ -16,4 +16,4 @@ Diagrama de conexiones externas (ATMEGA328 chip)
 
 Diagrama de asignación en ARDUINO
 
-![ARDUPIN](.//Referencias/ARDUINO/atmega328.png)
+![ARDUPIN](https://github.com/robertomc2007/Referencias/blob/master/ARDUINO/atmega328.png)
