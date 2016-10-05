@@ -1,0 +1,5 @@
+#RESUMEN
+
+##LEY DE OHM
+
+##LEY DE WATT
